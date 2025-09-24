@@ -87,17 +87,17 @@ ResourceHub предоставляет единое пространство, г
 ![Login](/docs/mockups/login.png)
 
 **Регистрация**
-![Registration](./docs/mockups/signup.png)
+![Registration](/docs/mockups/signup.png)
 
 **Главная страница**
-![home](./docs/mockups/home.png)
+![home](/docs/mockups/home.png)
 
 **Страница пользователя**
-![UserPage](./docs/mockups/open_user.png)
+![UserPage](/docs/mockups/open_user.png)
 
 **Открытый ресурс**
-![ResourceDetail](./docs/mockups/open_source.png)
+![ResourceDetail](/docs/mockups/open_source.png)
 
 **Личная страница**
-![MyPage](./docs/mockups/profile.png)
+![MyPage](/docs/mockups/profile.png)
 
