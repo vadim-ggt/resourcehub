@@ -84,7 +84,7 @@ ResourceHub предоставляет единое пространство, г
 Ключевые экраны приложения будут разработаны в соответствии с макетами, расположенными в каталоге проекта.
 
 **Логин**
-![Login](./docs/mockups/login.png)
+![Login](/docs/mockups/login.png)
 
 **Регистрация**
 ![Registration](./docs/mockups/signup.png)
