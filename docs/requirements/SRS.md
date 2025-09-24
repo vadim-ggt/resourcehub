@@ -90,7 +90,7 @@ ResourceHub предоставляет единое пространство, г
 ![Registration](./docs/mockups/signup.png)
 
 **Главная страница**
-![Home](./docs/mockups/home.png)
+![home](./docs/mockups/home.png)
 
 **Страница пользователя**
 ![UserPage](./docs/mockups/open_user.png)
