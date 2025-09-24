@@ -234,7 +234,10 @@ ResourceHub предоставляет единое пространство, г
 
 <a name="restrictions"/>
 
+
 ### 3.2.3 Ограничения
-1. Веб-приложение на стеке: Next.js (frontend) + Node.js (backend).
-2. База данных PostgreSQL.
-3. Языки разработки: TypeScript, JavaScript.
+1. Веб-приложение реализуется на **Spring Boot** (Java) как backend-сервис с REST API.
+2. В качестве базы данных используется **PostgreSQL**.
+3. Frontend может быть любым SPA-клиентом (например, React/TypeScript), который взаимодействует с REST API.
+4. Язык разработки backend: **Java 17+**.
+
