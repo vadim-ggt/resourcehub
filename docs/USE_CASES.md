@@ -1,5 +1,5 @@
 # ResourceHub — Use Case Analysis
-<img width="1024" height="1024" alt="ww" src="https://github.com/user-attachments/assets/c07b0bf4-7bb0-46ee-8e54-5b09a092f86e" />
+<img width="1024" height="592" alt="ww" src="https://github.com/user-attachments/assets/7e6fa2d4-c6ef-491a-99fc-43d3b310fb22" />
 
 ## Actors
 
